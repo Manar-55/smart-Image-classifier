@@ -1,2 +1,5 @@
 # smart-Image-classifier
-Image classification  using Google Teachable Machine and TensorFlow (keras)
+Turning image into intelligent predictions.
+
+## Overviw 
+A simple image classification model built with Google Teachble Machine and TensorFlow (kerase).
